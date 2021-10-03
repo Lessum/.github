@@ -1,0 +1,10 @@
+{
+    "name": "Template node",
+    "description": "Template for all node project in Lessum organization",
+    "iconName": "example-icon",
+    "categories": [
+        "TypeScript",
+        "JavaScript",
+        "TSX"
+    ]
+}
